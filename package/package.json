@@ -1,9 +1,9 @@
 {
   "name": "tpde-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fetch an image from https://thispersondoesnotexist.com/",
   "main": "index.js",
-  "repository": "https://github.com/Vordlex/this-person-does-not-exist-js.git",
+  "repository": "https://github.com/Vordlex/tpde-js",
   "author": "Yago Oliveira Ladislau",
   "license": "MIT",
   "keywords": [
