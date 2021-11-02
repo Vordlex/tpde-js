@@ -1,0 +1,18 @@
+{
+  "name": "tpde-js",
+  "version": "1.0.0",
+  "description": "Fetch an image from https://thispersondoesnotexist.com/",
+  "main": "index.js",
+  "repository": "https://github.com/Vordlex/this-person-does-not-exist-js.git",
+  "author": "Yago Oliveira Ladislau",
+  "license": "MIT",
+  "keywords": [
+    "This Person Does Not Exist",
+    "This Person",
+    "Fake Person",
+    "Fake Image"
+  ],
+  "dependencies": {
+    "node-fetch": "^3.0.0"
+  }
+}
