@@ -1,6 +1,6 @@
 {
   "name": "tpde-js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Fetch an image from https://thispersondoesnotexist.com/",
   "main": "index.js",
   "repository": "https://github.com/Vordlex/tpde-js",
@@ -11,8 +11,5 @@
     "This Person",
     "Fake Person",
     "Fake Image"
-  ],
-  "dependencies": {
-    "node-fetch": "^3.0.0"
-  }
+  ]
 }
